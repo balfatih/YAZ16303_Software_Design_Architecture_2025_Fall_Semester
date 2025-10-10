@@ -48,10 +48,10 @@
 ### 🔹 [11. Hafta - Davranışsal Tasarım Desenleri (Behavioral Design Pattern)-2](11-Hafta/)
 🎨 State, Strategy, Observer, Visitor, Template Method
 
-### 🔹 [12. Hafta - Java'da Katmanlı Mimari-1](12-Hafta/)
+### 🔹 [12. Hafta - Java'da Katmanlı Mimari](12-Hafta/)
 🤖 Reinforcement Learning, Büyük Dil Modelleri  
 
-### 🔹 [13. Hafta - Java'da Katmanlı Mimari-2](13-Hafta/)
+### 🔹 [13. Hafta - Proje Çalışmaları - I](13-Hafta/)
 🛠️ Proje fikirleri, veri seti seçimi  
 
 ### 🔹 [14. Hafta - Proje Çalışmaları - II](14-Hafta/)
